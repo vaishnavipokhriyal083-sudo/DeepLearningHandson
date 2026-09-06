@@ -168,7 +168,7 @@ The main objectives of this hands-on repository are:
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone:  https://github.com/vaishnavipokhriyal083-sudo/DeepLearningHandson
 ```
 
 ### 2. Navigate to the project
