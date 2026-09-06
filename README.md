@@ -228,7 +228,7 @@ B.Tech Computer Science & Engineering Student
 
 ### 🔗 Connect With Me
 
-* GitHub: 
+* GitHub: https://github.com/vaishnavipokhriyal083-sudo
 * LinkedIn: https://www.linkedin.com/in/vaishnavi-pokhriyal-48b7ba304/
 
 ---
